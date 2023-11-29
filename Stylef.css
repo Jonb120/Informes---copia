@@ -1,0 +1,25 @@
+* {
+    margin: 10px;
+    padding: 10px;
+    box-sizing: border-box;    
+  }
+	table.tableizer-table {
+		font-size: 14px;
+		border: 1px solid #CCC; 
+		font-family: Times New Roman, Times, serif;
+	} 
+	.tableizer-table td {
+		padding: 4px;
+		margin: 3px;
+		border: 1px solid #f81313;
+	}
+	.tableizer-table th {
+		background-color: #104E8B; 
+		color: #FFF;
+		font-weight: bold;
+	}
+    H1{
+        display: flex;
+        justify-content: flex-start;
+    }
+

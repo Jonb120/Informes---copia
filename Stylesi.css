@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+
+.tableizer-table td {
+    padding:5px;
+    margin: 15px;
+    border: 1px solid #000000;
+    text-align: center;
+}
+
+.tableizer-table th {
+    background-color: #2211e2;
+    color: #232020;
+    font-weight: bold;
+    text-align: center;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(21, 105, 178);
+
+}
+tbody{
+    background-color: aqua;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    
+}
